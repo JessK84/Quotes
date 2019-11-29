@@ -1,0 +1,188 @@
+
+
+#quotes {
+    margin: 0px;
+}
+
+.selection-first {
+    margin: 0px;
+    padding: 10px;
+}
+
+#one {
+    background-color: rgb(185, 211, 250);
+}
+
+#two {
+    background-color: #bca0d6;
+}
+
+#three {
+    background-color: #ecacaf;
+}
+
+#four {
+    background-color: hsl(99, 53%, 83%);
+}
+.conteiner-author {
+    text-align: end;
+    padding: 0px 25px 0px 0px;
+    margin: 0px;
+}
+
+#title-header {
+    font-family: 'Oswald', sans-serif;
+    font-size: 56px;
+}
+
+.pic-header {
+     width: 100%;
+}
+
+.pic {
+    width: 100%;
+}
+#quote-one {
+    font-family: 'Didact Gothic', sans-serif;
+    font-size: 32px;
+    color: aliceblue;    
+    padding: 0px 0px 0px 15px;
+
+}
+
+#author-quote-one {
+    font-family: 'Ubuntu', sans-serif; 
+    font-size: 18px; 
+    color: aliceblue; 
+    text-align: end;
+}
+
+.style-conteiner {
+    border-left: 5px solid;
+    border-left-color: #a3c9c9;
+    color: lavender;
+    margin: 0px 5px;
+    padding: 0px;
+}
+
+.container-one {
+    background-color: #5289c9;
+    padding: 10px;
+    margin: 0px;
+}
+.quote-first {
+    margin: 0px auto 80px;
+    padding: 5px 15px 15px 40px;
+    background-color: #9495e6;
+    width: 595px;
+    height: 190px;
+    color: honeydew;
+    border-radius: 0px 0px 7px 7px;
+    box-shadow: 0px 5px 15px black;
+}
+.pic-author-first {
+    margin: 80px auto 0px;
+    height: 232px;
+    width: 650px;
+    color: honeydew;
+    overflow: hidden;
+    border-radius: 7px 7px 0px 0px;
+    box-shadow: 0px 5px 15px black;
+}
+
+
+
+.quote-second {
+    margin: 0px auto 80px;
+    padding: 5px 15px 15px 40px;
+    background-color: rgb(89, 34, 100);
+    width: 595px;
+    height: 190px;
+    color: honeydew;
+    border-radius: 0px 0px 7px 7px;
+    box-shadow: 0px 5px 15px black;
+}
+
+#quote-two {
+    font-family: 'Neucha', cursive;
+    font-size: 42px;
+    color: hsl(50, 70%, 94%);
+    padding: 0px 0px 0px 15px;
+}
+
+#author-quote-second {
+    font-family: 'Raleway', sans-serif;
+    font-size: 22px;
+    color: floralwhite;
+    text-align: end;
+}
+
+.container-two {
+    background-color: rgb(182, 156, 199);
+    padding: 10px;
+    margin: 0px;
+}
+
+#quote-three { 
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 26px;
+    color: floralwhite;
+    padding: 0px 0px 0px 15px;
+
+}
+#author-quote-third {
+    font-family: 'Kosugi Maru', sans-serif;
+    font-size: 18px;
+    color: floralwhite;
+    text-align: end;
+}
+
+.quote-third {
+    margin: 0px auto 80px;
+    padding: 5px 15px 15px 40px;
+    background-color: #cf4747;
+    width: 595px;
+    height: 190px;
+    color: honeydew;
+    border-radius: 0px 0px 7px 7px;
+    box-shadow: 0px 5px 15px black;
+}
+.container-three {
+    background-color: hsl(34, 95%, 83%);
+    padding: 10px;
+    margin: 0px;
+}
+
+#quote-four {
+    font-family: 'Dancing Script', cursive;
+    font-size: 25px;
+    color: floralwhite;
+    padding: 0px 0px 0px 15px;
+
+}
+#author-quote-fourth {
+    font-family: 'Lobster', cursive;
+    font-size: 18px;
+    color: floralwhite;
+    text-align: end;
+}
+
+.quote-fourth {
+    margin: 0px auto 80px;
+    padding: 5px 15px 15px 40px;
+    background-color: rgb(54, 85, 52);
+    width: 595px;
+    height: 190px;
+    color: honeydew;
+    border-radius: 0px 0px 7px 7px;
+    box-shadow: 0px 5px 15px black;
+}
+
+.container-four {
+    background-color: hsl(98, 78%, 79%);
+    padding: 10px;
+    margin: 0px;
+}
+
+/* finished styles class <p> */
+
